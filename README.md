@@ -1,1 +1,1 @@
-# CursorAI fddg
+# CursorAI fdd
